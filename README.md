@@ -52,7 +52,7 @@ Este método se utiliza para **consultar** información. Puedes pasar un paráme
 
 **Prueba en el navegador o Postman:** `http://127.0.0.1:5000/users/66?query=hola`
 
-![Vista del uso del método GET desde el navegador.](Imagenes/Captura de pantalla 2026-03-04 192236.png)
+![Vista del uso del método GET desde el navegador.](Imagenes/metodoGET.png)
 
 ---
 
@@ -72,7 +72,7 @@ Se utiliza para **enviar** datos al servidor (crear recursos). Es necesario envi
 
 ```
 
-![Vista del uso del método POST desde POSTMAN.](Imagenes/Captura de pantalla 2026-03-04 190222.png)
+![Vista del uso del método POST desde POSTMAN.](Imagenes/metodoGET.png)
 
 
 ---
