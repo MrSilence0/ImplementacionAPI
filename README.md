@@ -72,7 +72,7 @@ Se utiliza para **enviar** datos al servidor (crear recursos). Es necesario envi
 
 ```
 
-![Vista del uso del método POST desde POSTMAN.](Imagenes/metodoGET.png)
+![Vista del uso del método POST desde POSTMAN.](Imagenes/metodoPOST.png)
 
 
 ---
